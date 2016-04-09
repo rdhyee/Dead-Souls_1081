@@ -1,0 +1,89 @@
+_repo: Dead-Souls_1081
+_version: 0.0.1
+alternative_title: Mertvye dushi. English
+contributor:
+  translator:
+    agent_name: Hogarth, D. J.
+    gutenberg_agent_id: '31815'
+    url: http://www.gutenberg.org/2009/agents/31815
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: "Dead Souls (Russian: Мёртвые ду́ши, Myórtvyjye dúshi) is a novel by\
+  \ Nikolai Gogol, first published in 1842, and widely regarded as an exemplar of\
+  \ 19th-century Russian literature. The purpose of the novel was to demonstrate the\
+  \ flaws and faults of the Russian mentality and character. Gogol masterfully portrayed\
+  \ those defects through Pavel Ivanovich Chichikov (the main character) and the people\
+  \ whom he encounters in his endeavours. These people are typical of the Russian\
+  \ middle-class of the time. Gogol himself saw it as an \"epic poem in prose\", and\
+  \ within the book as a \"novel in verse\". Despite supposedly completing the trilogy's\
+  \ second part, Gogol destroyed it shortly before his death. Although the novel ends\
+  \ in mid-sentence (like Sterne's Sentimental Journey), it is usually regarded as\
+  \ complete in the extant form.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1081'
+  wikidata: Q647379
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Satire'
+- !lcsh 'Swindlers and swindling -- Russia -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Dead Souls
+url: http://www.gutenberg.org/ebooks/1081
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kuolleet_sielut
+- https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A9%81%E0%A8%B0%E0%A8%A6%E0%A8%BE_%E0%A8%B0%E0%A9%82%E0%A8%B9%E0%A8%BE%E0%A8%82
+- https://fa.wikipedia.org/wiki/%D9%86%D9%81%D9%88%D8%B3_%D9%85%D8%B1%D8%AF%D9%87
+- https://ru.wikisource.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8_(%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C)
+- https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_linh_h%E1%BB%93n_ch%E1%BA%BFt
+- https://en.wikisource.org/wiki/Dead_Souls%E2%80%94A_Poem
+- https://pl.wikisource.org/wiki/Martwe_dusze
+- https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D1%82%D0%B2%D1%96_%D0%B4%D1%83%D1%88%D1%96
+- https://fr.wikisource.org/wiki/Les_%C3%82mes_mortes
+- https://ja.wikipedia.org/wiki/%E6%AD%BB%E3%81%9B%E3%82%8B%E9%AD%82
+- https://pt.wikipedia.org/wiki/Almas_Mortas
+- https://sr.wikipedia.org/wiki/%D0%9C%D1%80%D1%82%D0%B2%D0%B5_%D0%B4%D1%83%D1%88%D0%B5
+- https://es.wikipedia.org/wiki/Almas_muertas
+- https://sk.wikipedia.org/wiki/M%C5%95tve_du%C5%A1e
+- https://en.wikipedia.org/wiki/Dead_Souls
+- https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8
+- https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A7%87%E0%A6%A1_%E0%A6%B8%E0%A7%8B%E0%A6%B2%E0%A6%B8
+- https://fr.wikipedia.org/wiki/Les_%C3%82mes_mortes
+- https://sh.wikipedia.org/wiki/Mrtve_du%C5%A1e
+- https://zh.wikipedia.org/wiki/%E6%AD%BB%E9%AD%82%E9%9D%88
+- https://no.wikipedia.org/wiki/D%C3%B8de_sjeler
+- https://pl.wikipedia.org/wiki/Martwe_dusze
+- https://hu.wikipedia.org/wiki/Holt_lelkek
+- https://ru.wikiquote.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8
+- https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%99%E1%83%95%E1%83%93%E1%83%90%E1%83%A0%E1%83%98_%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B3_%D8%A7%D9%84%D9%85%D9%8A%D8%AA%D8%A9
+- https://nl.wikipedia.org/wiki/Dode_Zielen
+- https://sl.wikipedia.org/wiki/Mrtve_du%C5%A1e_(roman)
+- https://cs.wikipedia.org/wiki/Mrtv%C3%A9_du%C5%A1e
+- https://de.wikipedia.org/wiki/Die_toten_Seelen
+- https://eu.wikipedia.org/wiki/Arima_hilak
+- https://en.wikiquote.org/wiki/Dead_Souls
+- https://bg.wikipedia.org/wiki/%D0%9C%D1%8A%D1%80%D1%82%D0%B2%D0%B8_%D0%B4%D1%83%D1%88%D0%B8
+- https://it.wikipedia.org/wiki/Le_anime_morte
+- https://la.wikipedia.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8
+- https://hr.wikipedia.org/wiki/Mrtve_du%C5%A1e
+- https://ca.wikipedia.org/wiki/%C3%80nimes_mortes
+- https://tr.wikipedia.org/wiki/%C3%96l%C3%BC_Canlar
+- https://sv.wikipedia.org/wiki/D%C3%B6da_sj%C3%A4lar
